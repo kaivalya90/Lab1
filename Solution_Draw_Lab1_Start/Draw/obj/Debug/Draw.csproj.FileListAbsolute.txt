@@ -1,0 +1,334 @@
+C:\Courses\CompE561\S09\Me\Progs\Solution_Draw\Draw\obj\Debug\Draw.exe
+C:\Courses\CompE561\S09\Me\Progs\Solution_Draw\Draw\obj\Debug\Draw.pdb
+C:\Courses\CompE561\S09\Me\Progs\Solution_Draw\Draw\bin\Debug\Draw.exe
+C:\Courses\CompE561\S09\Me\Progs\Solution_Draw\Draw\bin\Debug\Draw.pdb
+C:\Courses\CompE561\S09\Me\Progs\Solution_Draw\Draw\obj\Debug\ResolveAssemblyReference.cache
+C:\Courses\CompE561\S09\Me\Progs\Solution_Draw\Draw\obj\Debug\Draw.Form1.resources
+C:\Courses\CompE561\S09\Me\Progs\Solution_Draw\Draw\obj\Debug\Draw.PenDialog.resources
+C:\Courses\CompE561\S09\Me\Progs\Solution_Draw\Draw\obj\Debug\Draw.Properties.Resources.resources
+C:\Courses\CompE561\S09\Me\Progs\Solution_Draw\Draw\obj\Debug\Draw.csproj.GenerateResource.Cache
+D:\Courses\CompE561\S10\Students-ftpSite\Progs\Solution_Draw\Draw\obj\Debug\Draw.exe
+D:\Courses\CompE561\S10\Students-ftpSite\Progs\Solution_Draw\Draw\obj\Debug\Draw.pdb
+D:\Courses\CompE561\S10\Students-ftpSite\Progs\Solution_Draw\Draw\bin\Debug\Draw.exe
+D:\Courses\CompE561\S10\Students-ftpSite\Progs\Solution_Draw\Draw\bin\Debug\Draw.pdb
+D:\Courses\CompE561\S10\Students-ftpSite\Progs\Solution_Draw\Draw\obj\Debug\ResolveAssemblyReference.cache
+D:\Courses\CompE561\S10\Students-ftpSite\Progs\Solution_Draw\Draw\obj\Debug\Draw.Form1.resources
+D:\Courses\CompE561\S10\Students-ftpSite\Progs\Solution_Draw\Draw\obj\Debug\Draw.PenDialog.resources
+D:\Courses\CompE561\S10\Students-ftpSite\Progs\Solution_Draw\Draw\obj\Debug\Draw.Properties.Resources.resources
+D:\Courses\CompE561\S10\Students-ftpSite\Progs\Solution_Draw\Draw\obj\Debug\Draw.csproj.GenerateResource.Cache
+C:\Courses\CompE561\Progs\Solution_Draw\Draw\obj\Debug\Draw.exe
+C:\Courses\CompE561\Progs\Solution_Draw\Draw\obj\Debug\Draw.pdb
+C:\Courses\CompE561\Progs\Solution_Draw\Draw\bin\Debug\Draw.exe
+C:\Courses\CompE561\Progs\Solution_Draw\Draw\bin\Debug\Draw.pdb
+C:\Courses\CompE561\Progs\Solution_Draw\Draw\obj\Debug\ResolveAssemblyReference.cache
+C:\Courses\CompE561\Progs\Solution_Draw\Draw\obj\Debug\Draw.Form1.resources
+C:\Courses\CompE561\Progs\Solution_Draw\Draw\obj\Debug\Draw.PenDialog.resources
+C:\Courses\CompE561\Progs\Solution_Draw\Draw\obj\Debug\Draw.Properties.Resources.resources
+C:\Courses\CompE561\Progs\Solution_Draw\Draw\obj\Debug\Draw.csproj.GenerateResource.Cache
+C:\Courses\CompE561\Progs\Demos\Day4\Solution_Draw\Draw\obj\Debug\Draw.exe
+C:\Courses\CompE561\Progs\Demos\Day4\Solution_Draw\Draw\obj\Debug\Draw.pdb
+C:\Courses\CompE561\Progs\Demos\Day4\Solution_Draw\Draw\bin\Debug\Draw.exe
+C:\Courses\CompE561\Progs\Demos\Day4\Solution_Draw\Draw\bin\Debug\Draw.pdb
+C:\Courses\CompE561\Progs\Demos\Day4\Solution_Draw\Draw\obj\Debug\ResolveAssemblyReference.cache
+C:\Courses\CompE561\Progs\Demos\Day4\Solution_Draw\Draw\obj\Debug\Draw.Form1.resources
+C:\Courses\CompE561\Progs\Demos\Day4\Solution_Draw\Draw\obj\Debug\Draw.PenDialog.resources
+C:\Courses\CompE561\Progs\Demos\Day4\Solution_Draw\Draw\obj\Debug\Draw.Properties.Resources.resources
+C:\Courses\CompE561\Progs\Demos\Day4\Solution_Draw\Draw\obj\Debug\Draw.csproj.GenerateResource.Cache
+H:\Courses\CompE561\Students-ftpSite\Progs\Solution_Draw\Draw\obj\Debug\Draw.exe
+H:\Courses\CompE561\Students-ftpSite\Progs\Solution_Draw\Draw\obj\Debug\Draw.pdb
+H:\Courses\CompE561\Students-ftpSite\Progs\Solution_Draw\Draw\bin\Debug\Draw.exe
+H:\Courses\CompE561\Students-ftpSite\Progs\Solution_Draw\Draw\bin\Debug\Draw.pdb
+H:\Courses\CompE561\Students-ftpSite\Progs\Solution_Draw\Draw\obj\Debug\ResolveAssemblyReference.cache
+H:\Courses\CompE561\Students-ftpSite\Progs\Solution_Draw\Draw\obj\Debug\Draw.Form1.resources
+H:\Courses\CompE561\Students-ftpSite\Progs\Solution_Draw\Draw\obj\Debug\Draw.PenDialog.resources
+H:\Courses\CompE561\Students-ftpSite\Progs\Solution_Draw\Draw\obj\Debug\Draw.Properties.Resources.resources
+H:\Courses\CompE561\Students-ftpSite\Progs\Solution_Draw\Draw\obj\Debug\GenerateResource-ResGen.read.1.tlog
+H:\Courses\CompE561\Students-ftpSite\Progs\Solution_Draw\Draw\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Courses\CompE561\S11\Students-ftpSite\Progs\Solution_Draw\Draw\obj\Debug\Draw.exe
+D:\Courses\CompE561\S11\Students-ftpSite\Progs\Solution_Draw\Draw\obj\Debug\Draw.pdb
+H:\CompE361\Me\Progs\Prep\Day20\Solution_Draw\Draw\obj\Debug\Draw.exe
+H:\CompE361\Me\Progs\Prep\Day20\Solution_Draw\Draw\obj\Debug\Draw.pdb
+H:\CompE361\Me\Progs\Prep\Day20\Solution_Draw\Draw\bin\Debug\Draw.exe
+H:\CompE361\Me\Progs\Prep\Day20\Solution_Draw\Draw\bin\Debug\Draw.pdb
+H:\CompE361\Me\Progs\Prep\Day20\Solution_Draw\Draw\obj\Debug\ResolveAssemblyReference.cache
+H:\CompE361\Me\Progs\Prep\Day20\Solution_Draw\Draw\obj\Debug\Draw.Form1.resources
+H:\CompE361\Me\Progs\Prep\Day20\Solution_Draw\Draw\obj\Debug\Draw.PenDialog.resources
+H:\CompE361\Me\Progs\Prep\Day20\Solution_Draw\Draw\obj\Debug\Draw.Properties.Resources.resources
+H:\CompE361\Me\Progs\Prep\Day20\Solution_Draw\Draw\obj\Debug\GenerateResource-ResGen.read.1.tlog
+H:\CompE361\Me\Progs\Prep\Day20\Solution_Draw\Draw\obj\Debug\GenerateResource-ResGen.write.1.tlog
+H:\CompE361\Blackboard\Demos\Day20\Solution_Draw\Draw\obj\Debug\Draw.exe
+H:\CompE361\Blackboard\Demos\Day20\Solution_Draw\Draw\obj\Debug\Draw.pdb
+H:\CompE361\Blackboard\Demos\Day20\Solution_Draw\Draw\bin\Debug\Draw.exe
+H:\CompE361\Blackboard\Demos\Day20\Solution_Draw\Draw\bin\Debug\Draw.pdb
+H:\CompE361\Blackboard\Demos\Day20\Solution_Draw\Draw\obj\Debug\ResolveAssemblyReference.cache
+H:\CompE361\Blackboard\Demos\Day20\Solution_Draw\Draw\obj\Debug\Draw.Form1.resources
+H:\CompE361\Blackboard\Demos\Day20\Solution_Draw\Draw\obj\Debug\Draw.PenDialog.resources
+H:\CompE361\Blackboard\Demos\Day20\Solution_Draw\Draw\obj\Debug\Draw.Properties.Resources.resources
+H:\CompE361\Blackboard\Demos\Day20\Solution_Draw\Draw\obj\Debug\GenerateResource-ResGen.read.1.tlog
+H:\CompE361\Blackboard\Demos\Day20\Solution_Draw\Draw\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Courses\CompE361\Blackboard\Demos\Day20\Solution_Draw\Draw\obj\Debug\Draw.exe
+C:\Courses\CompE361\Blackboard\Demos\Day20\Solution_Draw\Draw\obj\Debug\Draw.pdb
+C:\Courses\CompE361\Blackboard\Demos\Day20\Solution_Draw\Draw\bin\Debug\Draw.exe
+C:\Courses\CompE361\Blackboard\Demos\Day20\Solution_Draw\Draw\bin\Debug\Draw.pdb
+C:\Courses\CompE361\Blackboard\Demos\Day20\Solution_Draw\Draw\obj\Debug\ResolveAssemblyReference.cache
+C:\Courses\CompE361\Blackboard\Demos\Day20\Solution_Draw\Draw\obj\Debug\Draw.Form1.resources
+C:\Courses\CompE361\Blackboard\Demos\Day20\Solution_Draw\Draw\obj\Debug\Draw.PenDialog.resources
+C:\Courses\CompE361\Blackboard\Demos\Day20\Solution_Draw\Draw\obj\Debug\Draw.Properties.Resources.resources
+C:\Courses\CompE361\Blackboard\Demos\Day20\Solution_Draw\Draw\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Courses\CompE361\Blackboard\Demos\Day20\Solution_Draw\Draw\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Tmp361\Solution_Draw\Draw\obj\Debug\Draw.exe
+C:\Tmp361\Solution_Draw\Draw\obj\Debug\Draw.pdb
+C:\Tmp361\Solution_Draw\Draw\bin\Debug\Draw.exe
+C:\Tmp361\Solution_Draw\Draw\bin\Debug\Draw.pdb
+C:\Tmp361\Solution_Draw\Draw\obj\Debug\ResolveAssemblyReference.cache
+C:\Tmp361\Solution_Draw\Draw\obj\Debug\Draw.Form1.resources
+C:\Tmp361\Solution_Draw\Draw\obj\Debug\Draw.PenDialog.resources
+C:\Tmp361\Solution_Draw\Draw\obj\Debug\Draw.Properties.Resources.resources
+C:\Tmp361\Solution_Draw\Draw\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Tmp361\Solution_Draw\Draw\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Tmp361\Solution_Draw_2\Draw\obj\Debug\Draw.exe
+C:\Tmp361\Solution_Draw_2\Draw\obj\Debug\Draw.pdb
+C:\Tmp361\Solution_Draw_2\Draw\bin\Debug\Draw.exe
+C:\Tmp361\Solution_Draw_2\Draw\bin\Debug\Draw.pdb
+C:\Tmp361\Solution_Draw_2\Draw\obj\Debug\ResolveAssemblyReference.cache
+C:\Tmp361\Solution_Draw_2\Draw\obj\Debug\Draw.Form1.resources
+C:\Tmp361\Solution_Draw_2\Draw\obj\Debug\Draw.PenDialog.resources
+C:\Tmp361\Solution_Draw_2\Draw\obj\Debug\Draw.Properties.Resources.resources
+C:\Tmp361\Solution_Draw_2\Draw\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Tmp361\Solution_Draw_2\Draw\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\CompE361\Blackboard\Demos\Day20\Solution_Draw\Draw\obj\Debug\Draw.exe
+E:\CompE361\Blackboard\Demos\Day20\Solution_Draw\Draw\obj\Debug\Draw.pdb
+D:\Courses\CompE561\S12\Solution_Draw Options for S12\Solution_Draw\Draw\obj\Debug\Draw.exe
+D:\Courses\CompE561\S12\Solution_Draw Options for S12\Solution_Draw\Draw\obj\Debug\Draw.pdb
+D:\Courses\CompE561\S12\Solution_Draw Options for S12\Solution_Draw\Draw\bin\Debug\Draw.exe
+D:\Courses\CompE561\S12\Solution_Draw Options for S12\Solution_Draw\Draw\bin\Debug\Draw.pdb
+D:\Courses\CompE561\S12\Solution_Draw Options for S12\Solution_Draw\Draw\obj\Debug\ResolveAssemblyReference.cache
+D:\Courses\CompE561\S12\Solution_Draw Options for S12\Solution_Draw\Draw\obj\Debug\Draw.Form1.resources
+D:\Courses\CompE561\S12\Solution_Draw Options for S12\Solution_Draw\Draw\obj\Debug\Draw.PenDialog.resources
+D:\Courses\CompE561\S12\Solution_Draw Options for S12\Solution_Draw\Draw\obj\Debug\Draw.Properties.Resources.resources
+D:\Courses\CompE561\S12\Solution_Draw Options for S12\Solution_Draw\Draw\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Courses\CompE561\S12\Solution_Draw Options for S12\Solution_Draw\Draw\obj\Debug\GenerateResource-ResGen.write.1.tlog
+H:\CompE561\S12\Solution_Draw Options for S12\Solution_Draw\Draw\obj\Debug\Draw.exe
+H:\CompE561\S12\Solution_Draw Options for S12\Solution_Draw\Draw\obj\Debug\Draw.pdb
+H:\CompE561\S12\Solution_Draw Options for S12\Solution_Draw\Draw\bin\Debug\Draw.exe
+H:\CompE561\S12\Solution_Draw Options for S12\Solution_Draw\Draw\bin\Debug\Draw.pdb
+H:\CompE561\S12\Solution_Draw Options for S12\Solution_Draw\Draw\obj\Debug\ResolveAssemblyReference.cache
+H:\CompE561\S12\Solution_Draw Options for S12\Solution_Draw\Draw\obj\Debug\Draw.Form1.resources
+H:\CompE561\S12\Solution_Draw Options for S12\Solution_Draw\Draw\obj\Debug\Draw.PenDialog.resources
+H:\CompE561\S12\Solution_Draw Options for S12\Solution_Draw\Draw\obj\Debug\Draw.Properties.Resources.resources
+H:\CompE561\S12\Solution_Draw Options for S12\Solution_Draw\Draw\obj\Debug\GenerateResource-ResGen.read.1.tlog
+H:\CompE561\S12\Solution_Draw Options for S12\Solution_Draw\Draw\obj\Debug\GenerateResource-ResGen.write.1.tlog
+G:\CompE561\Me\Progs\Solution_Draw Options for S12\Solution_Draw\Draw\obj\Debug\Draw.exe
+G:\CompE561\Me\Progs\Solution_Draw Options for S12\Solution_Draw\Draw\obj\Debug\Draw.pdb
+H:\CompE561\Me\Progs\Solution_Draw Options for S12\Solution_Draw\Draw\obj\Debug\Draw.exe
+H:\CompE561\Me\Progs\Solution_Draw Options for S12\Solution_Draw\Draw\obj\Debug\Draw.pdb
+H:\CompE561\Blackboard\Labs\Solution_Draw_Lab1\Draw\obj\Debug\Draw.exe
+H:\CompE561\Blackboard\Labs\Solution_Draw_Lab1\Draw\obj\Debug\Draw.pdb
+H:\CompE561\Blackboard\Labs\Solution_Draw_Lab1\Draw\bin\Debug\Draw.exe
+H:\CompE561\Blackboard\Labs\Solution_Draw_Lab1\Draw\bin\Debug\Draw.pdb
+H:\CompE561\Blackboard\Labs\Solution_Draw_Lab1\Draw\obj\Debug\ResolveAssemblyReference.cache
+H:\CompE561\Blackboard\Labs\Solution_Draw_Lab1\Draw\obj\Debug\Draw.Form1.resources
+H:\CompE561\Blackboard\Labs\Solution_Draw_Lab1\Draw\obj\Debug\Draw.PenDialog.resources
+H:\CompE561\Blackboard\Labs\Solution_Draw_Lab1\Draw\obj\Debug\Draw.Properties.Resources.resources
+H:\CompE561\Blackboard\Labs\Solution_Draw_Lab1\Draw\obj\Debug\GenerateResource-ResGen.read.1.tlog
+H:\CompE561\Blackboard\Labs\Solution_Draw_Lab1\Draw\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Courses\CompE561\S12\Blackboard\Labs\Solution_Draw_Lab1\Draw\obj\Debug\Draw.exe
+D:\Courses\CompE561\S12\Blackboard\Labs\Solution_Draw_Lab1\Draw\obj\Debug\Draw.pdb
+D:\Courses\CompE561\S12\Me\Progs\Labs\Lab1\Solution_Draw_Lab1_Converted\Draw\obj\Debug\Draw.exe
+D:\Courses\CompE561\S12\Me\Progs\Labs\Lab1\Solution_Draw_Lab1_Converted\Draw\obj\Debug\Draw.pdb
+D:\Courses\CompE561\S12\Me\Progs\Labs\Lab1\Solution_Draw_Lab1_Converted\Draw\obj\Debug\ResolveAssemblyReference.cache
+D:\Courses\CompE561\S12\Me\Progs\Labs\Lab1\Solution_Draw_Lab1_Converted\Draw\obj\Debug\Draw.Form1.resources
+D:\Courses\CompE561\S12\Me\Progs\Labs\Lab1\Solution_Draw_Lab1_Converted\Draw\obj\Debug\Draw.PenDialog.resources
+D:\Courses\CompE561\S12\Me\Progs\Labs\Lab1\Solution_Draw_Lab1_Converted\Draw\obj\Debug\Draw.Properties.Resources.resources
+D:\Courses\CompE561\S12\Me\Progs\Labs\Lab1\Solution_Draw_Lab1_Converted\Draw\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Courses\CompE561\S12\Me\Progs\Labs\Lab1\Solution_Draw_Lab1_Converted\Draw\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Courses\CompE561\S12\Me\Progs\Labs\Lab1\Solution_Draw_Lab1_Converted\Draw\bin\Debug\Draw.exe
+D:\Courses\CompE561\S12\Me\Progs\Labs\Lab1\Solution_Draw_Lab1_Converted\Draw\bin\Debug\Draw.pdb
+D:\Courses\CompE561\S12\Me\Progs\Labs\Lab1\Solution_Draw_Lab1_2\Draw\obj\Debug\Draw.exe
+D:\Courses\CompE561\S12\Me\Progs\Labs\Lab1\Solution_Draw_Lab1_2\Draw\obj\Debug\Draw.pdb
+D:\Tmp\Solution_Draw_Lab1_2\Draw\obj\Debug\Draw.exe
+D:\Tmp\Solution_Draw_Lab1_2\Draw\obj\Debug\Draw.pdb
+D:\Tmp\Solution_Draw_Lab1_2\Draw\bin\Debug\Draw.exe
+D:\Tmp\Solution_Draw_Lab1_2\Draw\bin\Debug\Draw.pdb
+D:\Tmp\Solution_Draw_Lab1_2\Draw\obj\Debug\ResolveAssemblyReference.cache
+D:\Tmp\Solution_Draw_Lab1_2\Draw\obj\Debug\Draw.Form1.resources
+D:\Tmp\Solution_Draw_Lab1_2\Draw\obj\Debug\Draw.PenDialog.resources
+D:\Tmp\Solution_Draw_Lab1_2\Draw\obj\Debug\Draw.Properties.Resources.resources
+D:\Tmp\Solution_Draw_Lab1_2\Draw\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Tmp\Solution_Draw_Lab1_2\Draw\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Tmp1\Solution_Draw_Lab1_2\Draw\obj\Debug\Draw.exe
+D:\Tmp1\Solution_Draw_Lab1_2\Draw\obj\Debug\Draw.pdb
+D:\Tmp1\Solution_Draw_Lab1_2\Draw\bin\Debug\Draw.exe
+D:\Tmp1\Solution_Draw_Lab1_2\Draw\bin\Debug\Draw.pdb
+D:\Tmp1\Solution_Draw_Lab1_2\Draw\obj\Debug\ResolveAssemblyReference.cache
+D:\Tmp1\Solution_Draw_Lab1_2\Draw\obj\Debug\Draw.Form1.resources
+D:\Tmp1\Solution_Draw_Lab1_2\Draw\obj\Debug\Draw.PenDialog.resources
+D:\Tmp1\Solution_Draw_Lab1_2\Draw\obj\Debug\Draw.Properties.Resources.resources
+D:\Tmp1\Solution_Draw_Lab1_2\Draw\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Tmp1\Solution_Draw_Lab1_2\Draw\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Tmp1\Solution_Draw_Lab1_Start\Draw\obj\Debug\Draw.exe
+D:\Tmp1\Solution_Draw_Lab1_Start\Draw\obj\Debug\Draw.pdb
+D:\Tmp1\Solution_Draw_Lab1_Start\Draw\bin\Debug\Draw.exe
+D:\Tmp1\Solution_Draw_Lab1_Start\Draw\bin\Debug\Draw.pdb
+D:\Tmp1\Solution_Draw_Lab1_Start\Draw\obj\Debug\ResolveAssemblyReference.cache
+D:\Tmp1\Solution_Draw_Lab1_Start\Draw\obj\Debug\Draw.Form1.resources
+D:\Tmp1\Solution_Draw_Lab1_Start\Draw\obj\Debug\Draw.PenDialog.resources
+D:\Tmp1\Solution_Draw_Lab1_Start\Draw\obj\Debug\Draw.Properties.Resources.resources
+D:\Tmp1\Solution_Draw_Lab1_Start\Draw\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Tmp1\Solution_Draw_Lab1_Start\Draw\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Courses\CompE561\S12\Blackboard\Labs\Solution_Draw_Lab1_Start\Draw\obj\Debug\Draw.exe
+D:\Courses\CompE561\S12\Blackboard\Labs\Solution_Draw_Lab1_Start\Draw\obj\Debug\Draw.pdb
+D:\Courses\CompE561\S12\Blackboard\Labs\Solution_Draw_Lab1_Start_withContextMenu\Draw\obj\Debug\Draw.exe
+D:\Courses\CompE561\S12\Blackboard\Labs\Solution_Draw_Lab1_Start_withContextMenu\Draw\obj\Debug\Draw.pdb
+C:\Courses\CompE561\S13\Me\Progs\Labs\Lab1\Starter Projects\Solution_Draw_Lab1_Start_withContextMenu\Draw\obj\Debug\Draw.exe
+C:\Courses\CompE561\S13\Me\Progs\Labs\Lab1\Starter Projects\Solution_Draw_Lab1_Start_withContextMenu\Draw\obj\Debug\Draw.pdb
+C:\Courses\CompE561\S13\Me\Progs\Labs\Lab1\Starter Projects\Solution_Draw_Lab1_Start_withContextMenu\Draw\bin\Debug\Draw.exe
+C:\Courses\CompE561\S13\Me\Progs\Labs\Lab1\Starter Projects\Solution_Draw_Lab1_Start_withContextMenu\Draw\bin\Debug\Draw.pdb
+C:\Courses\CompE561\S13\Me\Progs\Labs\Lab1\Starter Projects\Solution_Draw_Lab1_Start_withContextMenu\Draw\obj\Debug\Draw.csprojResolveAssemblyReference.cache
+C:\Courses\CompE561\S13\Me\Progs\Labs\Lab1\Starter Projects\Solution_Draw_Lab1_Start_withContextMenu\Draw\obj\Debug\Draw.Form1.resources
+C:\Courses\CompE561\S13\Me\Progs\Labs\Lab1\Starter Projects\Solution_Draw_Lab1_Start_withContextMenu\Draw\obj\Debug\Draw.PenDialog.resources
+C:\Courses\CompE561\S13\Me\Progs\Labs\Lab1\Starter Projects\Solution_Draw_Lab1_Start_withContextMenu\Draw\obj\Debug\Draw.Properties.Resources.resources
+C:\Courses\CompE561\S13\Me\Progs\Labs\Lab1\Starter Projects\Solution_Draw_Lab1_Start_withContextMenu\Draw\obj\Debug\Draw.csproj.GenerateResource.Cache
+C:\Courses\CompE561\Blackboard\Labs\Lab1\Solution_Draw_Lab1_Start\Draw\obj\Debug\Draw.exe
+C:\Courses\CompE561\Blackboard\Labs\Lab1\Solution_Draw_Lab1_Start\Draw\obj\Debug\Draw.pdb
+C:\Courses\CompE361\F13\Me\Progs\Demos\Day21\Solution_Draw\Draw\obj\Debug\Draw.exe
+C:\Courses\CompE361\F13\Me\Progs\Demos\Day21\Solution_Draw\Draw\obj\Debug\Draw.pdb
+C:\Courses\CompE361\F13\Me\Progs\Demos\Day21\Solution_Draw\Draw\bin\Debug\Draw.exe
+C:\Courses\CompE361\F13\Me\Progs\Demos\Day21\Solution_Draw\Draw\bin\Debug\Draw.pdb
+C:\Courses\CompE361\F13\Me\Progs\Demos\Day21\Solution_Draw\Draw\obj\Debug\Draw.csprojResolveAssemblyReference.cache
+C:\Courses\CompE361\F13\Me\Progs\Demos\Day21\Solution_Draw\Draw\obj\Debug\Draw.Form1.resources
+C:\Courses\CompE361\F13\Me\Progs\Demos\Day21\Solution_Draw\Draw\obj\Debug\Draw.PenDialog.resources
+C:\Courses\CompE361\F13\Me\Progs\Demos\Day21\Solution_Draw\Draw\obj\Debug\Draw.Properties.Resources.resources
+C:\Courses\CompE361\F13\Me\Progs\Demos\Day21\Solution_Draw\Draw\obj\Debug\Draw.csproj.GenerateResource.Cache
+C:\Courses\CompE361\F13\Blackboard\Demos\Day21\Solution_Draw\Draw\obj\Debug\Draw.exe
+C:\Courses\CompE361\F13\Blackboard\Demos\Day21\Solution_Draw\Draw\obj\Debug\Draw.pdb
+C:\Courses\CompE361\F13\Blackboard\Demos\Day21\Solution_Draw\Draw\obj\Debug\Draw.csprojResolveAssemblyReference.cache
+C:\Courses\CompE361\F13\Blackboard\Demos\Day21\Solution_Draw\Draw\obj\Debug\Draw.Form1.resources
+C:\Courses\CompE361\F13\Blackboard\Demos\Day21\Solution_Draw\Draw\obj\Debug\Draw.PenDialog.resources
+C:\Courses\CompE361\F13\Blackboard\Demos\Day21\Solution_Draw\Draw\obj\Debug\Draw.Properties.Resources.resources
+C:\Courses\CompE361\F13\Blackboard\Demos\Day21\Solution_Draw\Draw\obj\Debug\Draw.csproj.GenerateResource.Cache
+C:\Courses\CompE361\F13\Blackboard\Demos\Day21\Solution_Draw\Draw\bin\Debug\Draw.exe
+C:\Courses\CompE361\F13\Blackboard\Demos\Day21\Solution_Draw\Draw\bin\Debug\Draw.pdb
+C:\Courses\CompE361\F14\Me\Progs\Demos\Day18\Solution_Draw\Draw\obj\Debug\Draw.exe
+C:\Courses\CompE361\F14\Me\Progs\Demos\Day18\Solution_Draw\Draw\obj\Debug\Draw.pdb
+C:\Courses\CompE361\F14\Me\Progs\Demos\Day18\Solution_Draw\Draw\bin\Debug\Draw.exe
+C:\Courses\CompE361\F14\Me\Progs\Demos\Day18\Solution_Draw\Draw\bin\Debug\Draw.pdb
+C:\Courses\CompE361\F14\Me\Progs\Demos\Day18\Solution_Draw\Draw\obj\Debug\Draw.csprojResolveAssemblyReference.cache
+C:\Courses\CompE361\F14\Me\Progs\Demos\Day18\Solution_Draw\Draw\obj\Debug\Draw.Form1.resources
+C:\Courses\CompE361\F14\Me\Progs\Demos\Day18\Solution_Draw\Draw\obj\Debug\Draw.PenDialog.resources
+C:\Courses\CompE361\F14\Me\Progs\Demos\Day18\Solution_Draw\Draw\obj\Debug\Draw.Properties.Resources.resources
+C:\Courses\CompE361\F14\Me\Progs\Demos\Day18\Solution_Draw\Draw\obj\Debug\Draw.csproj.GenerateResource.Cache
+C:\Courses\CompE361\F14\Me\Progs\Demos\Day21\Solution_Draw_1\Draw\obj\Debug\Draw.exe
+C:\Courses\CompE361\F14\Me\Progs\Demos\Day21\Solution_Draw_1\Draw\obj\Debug\Draw.pdb
+C:\Courses\CompE361\F14\Blackboard\Demos\Day21\Solution_Draw\Draw\obj\Debug\Draw.exe
+C:\Courses\CompE361\F14\Blackboard\Demos\Day21\Solution_Draw\Draw\obj\Debug\Draw.pdb
+C:\Courses\CompE361\F14\Blackboard\Demos\Day21\Solution_Draw\Draw\bin\Debug\Draw.exe
+C:\Courses\CompE361\F14\Blackboard\Demos\Day21\Solution_Draw\Draw\bin\Debug\Draw.pdb
+C:\Courses\CompE361\F14\Blackboard\Demos\Day21\Solution_Draw\Draw\obj\Debug\Draw.csprojResolveAssemblyReference.cache
+C:\Courses\CompE361\F14\Blackboard\Demos\Day21\Solution_Draw\Draw\obj\Debug\Draw.Form1.resources
+C:\Courses\CompE361\F14\Blackboard\Demos\Day21\Solution_Draw\Draw\obj\Debug\Draw.PenDialog.resources
+C:\Courses\CompE361\F14\Blackboard\Demos\Day21\Solution_Draw\Draw\obj\Debug\Draw.Properties.Resources.resources
+C:\Courses\CompE361\F14\Blackboard\Demos\Day21\Solution_Draw\Draw\obj\Debug\Draw.csproj.GenerateResource.Cache
+C:\Courses\CompE361\MyProjects\Drawing\Solution_Draw_withoutText\Draw\obj\Debug\Draw.exe
+C:\Courses\CompE361\MyProjects\Drawing\Solution_Draw_withoutText\Draw\obj\Debug\Draw.pdb
+C:\Courses\CompE361\MyProjects\Drawing\Solution_Draw_withoutText\Draw\bin\Debug\Draw.exe
+C:\Courses\CompE361\MyProjects\Drawing\Solution_Draw_withoutText\Draw\bin\Debug\Draw.pdb
+C:\Courses\CompE361\MyProjects\Drawing\Solution_Draw_withoutText\Draw\obj\Debug\Draw.csprojResolveAssemblyReference.cache
+C:\Courses\CompE361\MyProjects\Drawing\Solution_Draw_withoutText\Draw\obj\Debug\Draw.Form1.resources
+C:\Courses\CompE361\MyProjects\Drawing\Solution_Draw_withoutText\Draw\obj\Debug\Draw.PenDialog.resources
+C:\Courses\CompE361\MyProjects\Drawing\Solution_Draw_withoutText\Draw\obj\Debug\Draw.Properties.Resources.resources
+C:\Courses\CompE361\MyProjects\Drawing\Solution_Draw_withoutText\Draw\obj\Debug\Draw.csproj.GenerateResource.Cache
+C:\Courses\CompE361\MyProjects\Drawing\Solution_Draw_withText\Draw\obj\Debug\Draw.exe
+C:\Courses\CompE361\MyProjects\Drawing\Solution_Draw_withText\Draw\obj\Debug\Draw.pdb
+C:\Courses\CompE361\MyProjects\Drawing\Solution_Draw_withText\Draw\obj\Debug\Draw.csprojResolveAssemblyReference.cache
+C:\Courses\CompE361\MyProjects\Drawing\Solution_Draw_withText\Draw\obj\Debug\Draw.Form1.resources
+C:\Courses\CompE361\MyProjects\Drawing\Solution_Draw_withText\Draw\obj\Debug\Draw.PenDialog.resources
+C:\Courses\CompE361\MyProjects\Drawing\Solution_Draw_withText\Draw\obj\Debug\Draw.Properties.Resources.resources
+C:\Courses\CompE361\MyProjects\Drawing\Solution_Draw_withText\Draw\obj\Debug\Draw.csproj.GenerateResource.Cache
+C:\Courses\CompE361\MyProjects\Drawing\Solution_Draw_withText\Draw\bin\Debug\Draw.exe
+C:\Courses\CompE361\MyProjects\Drawing\Solution_Draw_withText\Draw\bin\Debug\Draw.pdb
+C:\Courses\CompE361\MyProjects\Drawing\Draw With Text\Solution_Draw_withText\Draw\obj\Debug\Draw.exe
+C:\Courses\CompE361\MyProjects\Drawing\Draw With Text\Solution_Draw_withText\Draw\obj\Debug\Draw.pdb
+C:\Courses\CompE361\MyProjects\Drawing\Draw With Text\Solution_Draw_withText\Draw\bin\Debug\Draw.exe
+C:\Courses\CompE361\MyProjects\Drawing\Draw With Text\Solution_Draw_withText\Draw\bin\Debug\Draw.pdb
+C:\Courses\CompE361\MyProjects\Drawing\Draw With Text\Solution_Draw_withText\Draw\obj\Debug\Draw.csprojResolveAssemblyReference.cache
+C:\Courses\CompE361\MyProjects\Drawing\Draw With Text\Solution_Draw_withText\Draw\obj\Debug\Draw.Form1.resources
+C:\Courses\CompE361\MyProjects\Drawing\Draw With Text\Solution_Draw_withText\Draw\obj\Debug\Draw.PenDialog.resources
+C:\Courses\CompE361\MyProjects\Drawing\Draw With Text\Solution_Draw_withText\Draw\obj\Debug\Draw.Properties.Resources.resources
+C:\Courses\CompE361\MyProjects\Drawing\Draw With Text\Solution_Draw_withText\Draw\obj\Debug\Draw.csproj.GenerateResource.Cache
+C:\Courses\CompE561\S15\Prep_S15\Drawing\Draw With Text\Solution_Draw_withText\Draw\obj\Debug\Draw.exe
+C:\Courses\CompE561\S15\Prep_S15\Drawing\Draw With Text\Solution_Draw_withText\Draw\obj\Debug\Draw.pdb
+C:\Courses\CompE561\S15\Prep_S15\Drawing\Solution_Draw_Lab1_Start_S15\Draw\obj\Debug\Draw.exe
+C:\Courses\CompE561\S15\Prep_S15\Drawing\Solution_Draw_Lab1_Start_S15\Draw\obj\Debug\Draw.pdb
+C:\Courses\CompE561\S15\Prep_S15\Drawing\Solution_Draw_Lab1_Start_S15\Draw\bin\Debug\Draw.exe
+C:\Courses\CompE561\S15\Prep_S15\Drawing\Solution_Draw_Lab1_Start_S15\Draw\bin\Debug\Draw.pdb
+C:\Courses\CompE561\S15\Prep_S15\Drawing\Solution_Draw_Lab1_Start_S15\Draw\obj\Debug\Draw.csprojResolveAssemblyReference.cache
+C:\Courses\CompE561\S15\Prep_S15\Drawing\Solution_Draw_Lab1_Start_S15\Draw\obj\Debug\Draw.Form1.resources
+C:\Courses\CompE561\S15\Prep_S15\Drawing\Solution_Draw_Lab1_Start_S15\Draw\obj\Debug\Draw.PenDialog.resources
+C:\Courses\CompE561\S15\Prep_S15\Drawing\Solution_Draw_Lab1_Start_S15\Draw\obj\Debug\Draw.Properties.Resources.resources
+C:\Courses\CompE561\S15\Prep_S15\Drawing\Solution_Draw_Lab1_Start_S15\Draw\obj\Debug\Draw.csproj.GenerateResource.Cache
+C:\Courses\CompE561\S15\Me\Progs\Labs\Lab1\Solution_Draw_Lab1\Draw\obj\Debug\Draw.exe
+C:\Courses\CompE561\S15\Me\Progs\Labs\Lab1\Solution_Draw_Lab1\Draw\obj\Debug\Draw.pdb
+C:\Courses\CompE561\S15\Me\Progs\Labs\Lab1\Solution_Draw_Lab1\Draw\bin\Debug\Draw.exe
+C:\Courses\CompE561\S15\Me\Progs\Labs\Lab1\Solution_Draw_Lab1\Draw\bin\Debug\Draw.pdb
+C:\Courses\CompE561\S15\Me\Progs\Labs\Lab1\Solution_Draw_Lab1\Draw\obj\Debug\Draw.csprojResolveAssemblyReference.cache
+C:\Courses\CompE561\S15\Me\Progs\Labs\Lab1\Solution_Draw_Lab1\Draw\obj\Debug\Draw.Form1.resources
+C:\Courses\CompE561\S15\Me\Progs\Labs\Lab1\Solution_Draw_Lab1\Draw\obj\Debug\Draw.PenDialog.resources
+C:\Courses\CompE561\S15\Me\Progs\Labs\Lab1\Solution_Draw_Lab1\Draw\obj\Debug\Draw.Properties.Resources.resources
+C:\Courses\CompE561\S15\Me\Progs\Labs\Lab1\Solution_Draw_Lab1\Draw\obj\Debug\Draw.csproj.GenerateResource.Cache
+C:\Courses\CompE561\S15\Me\Progs\Labs\Lab1\Solution_Draw_Lab1_Encoding\Draw\obj\Debug\Draw.exe
+C:\Courses\CompE561\S15\Me\Progs\Labs\Lab1\Solution_Draw_Lab1_Encoding\Draw\obj\Debug\Draw.pdb
+C:\Courses\CompE561\S15\Me\Progs\Labs\Lab1\Solution_Draw_Lab1_Encoding\Draw\bin\Debug\Draw.exe
+C:\Courses\CompE561\S15\Me\Progs\Labs\Lab1\Solution_Draw_Lab1_Encoding\Draw\bin\Debug\Draw.pdb
+C:\Courses\CompE561\S15\Me\Progs\Labs\Lab1\Solution_Draw_Lab1_Encoding\Draw\obj\Debug\Draw.csprojResolveAssemblyReference.cache
+C:\Courses\CompE561\S15\Me\Progs\Labs\Lab1\Solution_Draw_Lab1_Encoding\Draw\obj\Debug\Draw.Form1.resources
+C:\Courses\CompE561\S15\Me\Progs\Labs\Lab1\Solution_Draw_Lab1_Encoding\Draw\obj\Debug\Draw.PenDialog.resources
+C:\Courses\CompE561\S15\Me\Progs\Labs\Lab1\Solution_Draw_Lab1_Encoding\Draw\obj\Debug\Draw.Properties.Resources.resources
+C:\Courses\CompE561\S15\Me\Progs\Labs\Lab1\Solution_Draw_Lab1_Encoding\Draw\obj\Debug\Draw.csproj.GenerateResource.Cache
+C:\AAA\Solution_Draw_Lab1\Draw\obj\Debug\Draw.exe
+C:\AAA\Solution_Draw_Lab1\Draw\obj\Debug\Draw.pdb
+C:\AAA\Solution_Draw_Lab1\Draw\obj\Debug\Draw.csprojResolveAssemblyReference.cache
+C:\AAA\Solution_Draw_Lab1\Draw\obj\Debug\Draw.Form1.resources
+C:\AAA\Solution_Draw_Lab1\Draw\obj\Debug\Draw.PenDialog.resources
+C:\AAA\Solution_Draw_Lab1\Draw\obj\Debug\Draw.Properties.Resources.resources
+C:\AAA\Solution_Draw_Lab1\Draw\obj\Debug\Draw.csproj.GenerateResource.Cache
+C:\AAA\Solution_Draw_Lab1\Draw\bin\Debug\Draw.exe
+C:\AAA\Solution_Draw_Lab1\Draw\bin\Debug\Draw.pdb
+J:\CompE561\Me\Progs\Labs\Lab1\Solution_Draw_Lab1\Draw\obj\Debug\Draw.exe
+J:\CompE561\Me\Progs\Labs\Lab1\Solution_Draw_Lab1\Draw\obj\Debug\Draw.pdb
+C:\Courses\CompE561\S15\Blackboard\Labs\Lab1\Solution_Draw_Lab1\Draw\obj\Debug\Draw.exe
+C:\Courses\CompE561\S15\Blackboard\Labs\Lab1\Solution_Draw_Lab1\Draw\obj\Debug\Draw.pdb
+C:\Courses\CompE561\S15\Blackboard\Labs\Lab1\Solution_Draw_Lab1\Draw\bin\Debug\Draw.exe
+C:\Courses\CompE561\S15\Blackboard\Labs\Lab1\Solution_Draw_Lab1\Draw\bin\Debug\Draw.pdb
+C:\Courses\CompE561\S15\Blackboard\Labs\Lab1\Solution_Draw_Lab1\Draw\obj\Debug\Draw.csprojResolveAssemblyReference.cache
+C:\Courses\CompE561\S15\Blackboard\Labs\Lab1\Solution_Draw_Lab1\Draw\obj\Debug\Draw.Form1.resources
+C:\Courses\CompE561\S15\Blackboard\Labs\Lab1\Solution_Draw_Lab1\Draw\obj\Debug\Draw.PenDialog.resources
+C:\Courses\CompE561\S15\Blackboard\Labs\Lab1\Solution_Draw_Lab1\Draw\obj\Debug\Draw.Properties.Resources.resources
+C:\Courses\CompE561\S15\Blackboard\Labs\Lab1\Solution_Draw_Lab1\Draw\obj\Debug\Draw.csproj.GenerateResource.Cache
+C:\Courses\CompE561\S15\Blackboard\Labs\Lab1\Solution_Draw_Lab1_Start\Draw\obj\Debug\Draw.exe
+C:\Courses\CompE561\S15\Blackboard\Labs\Lab1\Solution_Draw_Lab1_Start\Draw\obj\Debug\Draw.pdb
+E:\Lab1\Lab1\Solution_Draw_Lab1_Start\Draw\obj\Debug\Draw.exe
+E:\Lab1\Lab1\Solution_Draw_Lab1_Start\Draw\obj\Debug\Draw.pdb
+E:\Lab1\Lab1\Solution_Draw_Lab1_Start\Draw\obj\Debug\Draw.csprojResolveAssemblyReference.cache
+E:\Lab1\Lab1\Solution_Draw_Lab1_Start\Draw\obj\Debug\Draw.Form1.resources
+E:\Lab1\Lab1\Solution_Draw_Lab1_Start\Draw\obj\Debug\Draw.PenDialog.resources
+E:\Lab1\Lab1\Solution_Draw_Lab1_Start\Draw\obj\Debug\Draw.Properties.Resources.resources
+E:\Lab1\Lab1\Solution_Draw_Lab1_Start\Draw\obj\Debug\Draw.csproj.GenerateResource.Cache
+E:\Lab1\Lab1\Solution_Draw_Lab1_Start\Draw\bin\Debug\Draw.exe
+E:\Lab1\Lab1\Solution_Draw_Lab1_Start\Draw\bin\Debug\Draw.pdb
+E:\Lab1_Kaivalya\Lab1\Lab1\Solution_Draw_Lab1_Start\Draw\bin\Debug\Draw.exe.config
+E:\Lab1_Kaivalya\Lab1\Lab1\Solution_Draw_Lab1_Start\Draw\bin\Debug\Draw.exe
+E:\Lab1_Kaivalya\Lab1\Lab1\Solution_Draw_Lab1_Start\Draw\bin\Debug\Draw.pdb
+E:\Lab1_Kaivalya\Lab1\Lab1\Solution_Draw_Lab1_Start\Draw\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+E:\Lab1_Kaivalya\Lab1\Lab1\Solution_Draw_Lab1_Start\Draw\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+E:\Lab1_Kaivalya\Lab1\Lab1\Solution_Draw_Lab1_Start\Draw\bin\Debug\Microsoft.SqlServer.Smo.dll
+E:\Lab1_Kaivalya\Lab1\Lab1\Solution_Draw_Lab1_Start\Draw\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+E:\Lab1_Kaivalya\Lab1\Lab1\Solution_Draw_Lab1_Start\Draw\bin\Debug\Microsoft.SqlServer.Dmf.dll
+E:\Lab1_Kaivalya\Lab1\Lab1\Solution_Draw_Lab1_Start\Draw\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+E:\Lab1_Kaivalya\Lab1\Lab1\Solution_Draw_Lab1_Start\Draw\obj\Debug\Draw.Form1.resources
+E:\Lab1_Kaivalya\Lab1\Lab1\Solution_Draw_Lab1_Start\Draw\obj\Debug\Draw.PenDialog.resources
+E:\Lab1_Kaivalya\Lab1\Lab1\Solution_Draw_Lab1_Start\Draw\obj\Debug\Draw.Properties.Resources.resources
+E:\Lab1_Kaivalya\Lab1\Lab1\Solution_Draw_Lab1_Start\Draw\obj\Debug\Draw.csproj.GenerateResource.Cache
+E:\Lab1_Kaivalya\Lab1\Lab1\Solution_Draw_Lab1_Start\Draw\obj\Debug\Draw.exe
+E:\Lab1_Kaivalya\Lab1\Lab1\Solution_Draw_Lab1_Start\Draw\obj\Debug\Draw.pdb
+E:\Lab1_Kaivalya\Lab1\Lab1\Solution_Draw_Lab1_Start\Draw\obj\Debug\Draw.csprojResolveAssemblyReference.cache
